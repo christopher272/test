@@ -1,0 +1,172 @@
+body{
+    background-color: #3d3d3d;
+}
+.france{
+background-color: #3d3d3d;
+width: 420px;
+height: 400px;
+margin: 0 auto;
+}
+.france1{
+    background-color: #002395;
+    width: 140px;
+    height: 100%;
+    float: left;
+}
+.france2{
+    background-color: #ffffff;
+    width: 140px;
+    height: 100%;
+    float: left;
+}
+.france3{
+    background-color: #ed2939;
+    width: 140px;
+    height: 100%;
+    float: left;
+}
+.germany{
+    background-color: #3d3d3d;
+    width: 420px;
+    height: 400px;
+    margin: 0 auto;
+}
+.germany1{
+background-color: black;
+    width: 100%;
+    height: 33%;
+}
+.germany2{
+    background-color:red;
+    width: 100%;
+    height: 33%;
+}
+.germany3{
+    background-color: yellow;
+    width: 100%;
+    height: 34%;
+}
+.madagascar{
+    background-color: #3d3d3d;
+    width: 420px;
+    height: 400px;
+    margin: 0 auto;}
+.madagascar1{
+background-color: white;
+width: 33%;
+height: 100%;
+float: left;
+}
+.madagascar2{
+    background-color: red;
+    height: 50%;
+    width: 100%;
+}
+.madagascar3{
+    background-color: green;
+    height: 100%;
+    width: 100%;
+}
+.switzerland{
+    background-color: red;
+    width: 420px;
+    height: 400px;
+    margin: 0 auto;}
+.switzerland1{
+    background-color: white;
+    width: 80px;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    right: -170px;
+}
+.switzerland2{
+    background-color: white;
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    position: relative;
+    top: -40px;
+    right: -110px;
+}
+.sweden{background-color: #3c6aa3;
+    width: 420px;
+    height: 400px;
+    margin: 0 auto;}
+.sweden1{
+    background-color: yellow;
+    width: 420px;
+    height: 40px;
+    position: relative;
+    top: 180px;
+}
+.sweden2{
+    background-color: yellow;
+    width: 40px;
+    height: 400px;
+    position: relative;
+    right: -150px;
+    top: -40px;
+}
+.gambia{background-color: white;
+    width: 420px;
+    height: 400px;
+    margin: 0 auto;}
+.gambia1{
+    background-color: red;
+    width: 100%;
+    height: 30%;
+}
+.gambia2{
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    top: 30px;
+}
+.gambia3{
+    background-color: green;
+    width: 100%;
+    height: 127px;
+    position: relative;
+    top: 60px;
+}
+.japan{background-color: white;
+    width: 420px;
+    height: 400px;
+    margin: 0 auto;
+}
+.japan1{
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+background-color: #ed2939;
+position: relative;
+top: 100px;
+right: -100px;}
+.niger{
+    background-color:white;
+    width: 420px;
+    height: 400px;
+    margin: 0 auto;}
+.niger1{
+    background-color: orange;
+    width: 100%;
+    height: 133px;
+    }
+.niger2{
+    background-color: green;
+    height: 133px;
+    width: 100%;
+    position: relative;
+    top: 135px;
+}
+.niger3{
+    background-color: orange;
+    border-radius: 80px;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    top: -100px;
+    right: -170px;
+}

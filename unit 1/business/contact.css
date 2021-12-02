@@ -1,0 +1,10 @@
+
+
+
+.nav{
+    display: flexbox;
+    flex-direction: column;
+    justify-content: left       ;
+    background-color: lightslategray;
+    width: 60px;
+} 

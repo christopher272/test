@@ -1,0 +1,13 @@
+var fruit = ["banana", "apple", "orange", "watermelon"];
+var vegetables = ["carrot", "tomato", "pepper", "lettuce"];
+vegetables.pop();
+fruit.shift();
+const f = fruit.indexOf("orange");
+fruit.push(f);
+const v = vegetables.length;
+vegetables.push(v);
+var food = fruit.concat(vegetables);
+food.splice(4,2);
+food.reverse();
+food.toString();
+console.log(food);
